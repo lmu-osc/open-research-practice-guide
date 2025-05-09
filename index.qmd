@@ -6,14 +6,23 @@ title: "Open Rsearch Practice Guide"
 This guide is currently under development. Content may be incomplete or subject to change.
 :::
 
-# Tutorial Overview
+# Open Research Practice Guide Overview
 
-This **self-paced tutorial** is intended to take X hours to complete.
+This document serves as a template provided by the LMU Open Science Center (OSC) to assist research groups at LMU in creating their own tailored Open Research Practice Guide.
+Our goal is to help your research group establish and communicate clear expectations and workflows that foster a culture of transparent, reproducible, credible, and ethical research. This guide is intended to be collaboratively developed by all members of your group – including students (Bachelor, Master, PhD), postdoctoral researchers, staff scientists, technicians, and Principal Investigators – involved in the research process.
+The handbook follows the typical Research Data Management (RDM) lifecycle (Plan & Design -> Collect & Manage -> Analyse & Collaborate -> Preserve & Share), integrating Open Science practices at each stage. We recommend including a visual workflow diagram in your adapted version for quick reference. 
 
-The tutorial is split into the following sections:
+The guide is structured as follows:
 
-1.  [**TOPIC1**]() talks about TOPIC1
-2.  [**TOPIC2**]() discusses TOPIC2
+-   **How to Use and Adapt this Guide**: This section provides an overview of the guide's structure and how to adapt it for your research group.
+-   **Inroduction and Guiding Principles**: This section outlines the guiding principles of the guide, including the importance of open research practices and the benefits they bring to your research group.
+-   **Research Data Management (RDM) Lifecycle**: This section provides an overview of the RDM lifecycle and how it relates to open research practices.
+-   **Plan & Design**: This section covers the planning and design phase of the research process, including how to develop a research question, design a study, and create a data management plan.
+-   **Collect & Manage**: This section covers the data collection and management phase of the research process, including how to collect and manage data in a way that promotes transparency and reproducibility.
+-   **Analyse & Collaborate**: This section covers the analysis and collaboration phase of the research process, including how to analyze data in a transparent and reproducible way and how to collaborate with other researchers.
+-   **Preserve & Disseminate**: This section covers the preservation and sharing phase of the research process, including how to preserve and share data in a way that promotes transparency and reproducibility.
+-   **Resources**: Additional resources and links to relevant tools, software, and best practices for open research.         
+-   **Appendix**: This section includes additional information, such as a glossary of terms and a list of relevant policies and guidelines.
 
 
 ::: {.callout-tip title="Recommended Software"}
