@@ -1,6 +1,7 @@
-# Tutorial Template
+# Open Research Practice Guide
 
-This repo serves as the template/basis for our Quarto tutorials.
+> [!WARNING]
+> This repository is a work in progress.
 
 ## Check `CITATION.cff` Format
 

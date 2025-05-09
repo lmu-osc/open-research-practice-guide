@@ -1,9 +1,10 @@
 ---
-title: "Welcome to the TOPIC Tutorial!"
+title: "Open Rsearch Practice Guide"
 ---
 
-THIS IS YOUR HOME PAGE FILE. DO NOT RENAME OR DELETE THIS FILE.
-
+::: {.callout-warning title="Work in Progress"}
+This guide is currently under development. Content may be incomplete or subject to change.
+:::
 
 # Tutorial Overview
 
