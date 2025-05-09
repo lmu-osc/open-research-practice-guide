@@ -45,20 +45,40 @@ website:
     contents:
       - text: "Overview"
         href: index.qmd
-      - section: "TOPIC 1"
+      - section: "How to Use and Adapt this Guide"
         contents:
-          - href: TOPIC1/page1.qmd
-            text: "TOPIC1 Page1 Title"
-          - href: TOPIC1/page2.qmd
-            text: "TOPIC1 Page2 Title"
-      - section: "TOPIC 2"
+          - href: how-to-use/use.qmd
+            text: "Using this Guide"
+          - href: how-to-use/adapt.qmd
+            text: "Adapting this Guide"
+      - section: "Introduction and Guiding Principles"
         contents:
-          - href: TOPIC2/page1.qmd
-            text: "TOPIC2 Page1 Title"
-          - href: TOPIC2/page2.qmd
-            text: "TOPIC2 Page2 Title"
-          - href: TOPIC2/page3.qmd
-            text: "TOPIC2 Page3 Title"
+          - href: introduction-principles/os-principles.qmd
+            text: "Open Science Principles"
+          - href: introduction-principles/lmu-guidelines.qmd
+            text: "LMU Guiding Principles"
+      - section: "Research Data Management (RDM) Lifecycle"
+        contents:
+          - href: rdm-lifecycle/intro.qmd
+            text: "Introduction to RDM Lifecycle"
+          - text: "Plan & Design"
+            href: rdm-lifecycle/plan-design.qmd
+          - text: "Collect & Manage"
+            href: rdm-lifecycle/collect-manage.qmd
+          - text: "Analyse & Collaborate"
+            href: rdm-lifecycle/analyse-collaborate.qmd
+          - text: "Preserve & Share"
+            href: rdm-lifecycle/preserve-share.qmd
+      - section: "Resources"
+        contents:
+          - href: resources/index.qmd
+            text: "Tools and Best Practices"
+      - section: "Appendix"
+        contents:
+          - href: appendix/glossary.qmd
+            text: "Glossary"
+          - href: appendix/policies.qmd
+            text: "Policies and Guidelines"
 # End Website
 
 
