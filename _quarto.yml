@@ -47,37 +47,37 @@ website:
         href: index.qmd
       - section: "How to Use and Adapt this Guide"
         contents:
-          - href: how-to-use/use.qmd
+          - href: 01-use-and-adapt/use.qmd
             text: "Using this Guide"
-          - href: how-to-use/adapt.qmd
+          - href: 01-use-and-adapt/adapt.qmd
             text: "Adapting this Guide"
       - section: "Introduction and Guiding Principles"
         contents:
-          - href: introduction-principles/os-principles.qmd
+          - href: 02-guiding-principles/os-principles.qmd
             text: "Open Science Principles"
-          - href: introduction-principles/lmu-guidelines.qmd
+          - href: 02-guiding-principles/lmu-guidelines.qmd
             text: "LMU Guiding Principles"
       - section: "Research Data Management (RDM) Lifecycle"
         contents:
-          - href: rdm-lifecycle/intro.qmd
+          - href: 03-rdm-cycle/intro.qmd
             text: "Introduction to RDM Lifecycle"
           - text: "Plan & Design"
-            href: rdm-lifecycle/plan-design.qmd
+            href: 03-rdm-cycle/plan-design.qmd
           - text: "Collect & Manage"
-            href: rdm-lifecycle/collect-manage.qmd
+            href: 03-rdm-cycle/collect-manage.qmd
           - text: "Analyse & Collaborate"
-            href: rdm-lifecycle/analyse-collaborate.qmd
+            href: 03-rdm-cycle/analyse-collaborate.qmd
           - text: "Preserve & Share"
-            href: rdm-lifecycle/preserve-share.qmd
+            href: 03-rdm-cycle/preserve-share.qmd
       - section: "Resources"
         contents:
-          - href: resources/index.qmd
+          - href: 04-resources/index.qmd
             text: "Tools and Best Practices"
       - section: "Appendix"
         contents:
-          - href: appendix/glossary.qmd
+          - href: 05-appendix/glossary.qmd
             text: "Glossary"
-          - href: appendix/policies.qmd
+          - href: 05-appendix/policies.qmd
             text: "Policies and Guidelines"
 # End Website
 
