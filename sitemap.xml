@@ -1,67 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/02-guiding-principles/lmu-guidelines.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/intro.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/preserve-share.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/analyse-collaborate.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
     <loc>https://lmu-osc.github.io/open-research-practice-guide/01-use-and-adapt/adapt.html</loc>
-    <lastmod>2025-06-22T23:10:39.262Z</lastmod>
+    <lastmod>2025-06-29T23:10:35.059Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/open-research-practice-guide/LICENSE.html</loc>
-    <lastmod>2025-06-22T23:10:39.264Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/05-appendix/glossary.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/LICENSE-CODE.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/about.html</loc>
-    <lastmod>2025-06-22T23:10:39.264Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/04-resources/index.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/05-appendix/policies.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/01-use-and-adapt/use.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/index.html</loc>
-    <lastmod>2025-06-22T23:10:39.264Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/collect-manage.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
-  </url>
-  <url>
-    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/plan-design.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
+    <lastmod>2025-06-29T23:10:35.061Z</lastmod>
   </url>
   <url>
     <loc>https://lmu-osc.github.io/open-research-practice-guide/02-guiding-principles/os-principles.html</loc>
-    <lastmod>2025-06-22T23:10:39.263Z</lastmod>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/about.html</loc>
+    <lastmod>2025-06-29T23:10:35.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/analyse-collaborate.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/intro.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/plan-design.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/05-appendix/policies.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/05-appendix/glossary.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/LICENSE-CODE.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/collect-manage.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/03-rdm-cycle/preserve-share.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/index.html</loc>
+    <lastmod>2025-06-29T23:10:35.061Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/04-resources/index.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/02-guiding-principles/lmu-guidelines.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
+  </url>
+  <url>
+    <loc>https://lmu-osc.github.io/open-research-practice-guide/01-use-and-adapt/use.html</loc>
+    <lastmod>2025-06-29T23:10:35.060Z</lastmod>
   </url>
 </urlset>
