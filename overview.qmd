@@ -1,0 +1,8 @@
+---
+title: "Overview"
+---
+
+The figure below summarises, along the research cycle, the steps (in the white boxes) that need to be performed by each team member between each checkpoint (in colored boxes) that take place with the rest of the team or direct supervisor. The source file is available here to make any adaption on a per project basis: [INSERT LINK]
+We recommend you print a copy for your office to serve as a memory prompt and active checklist.
+
+![Figure. Open Research Cycle. Detailed customizable checklist of open research practices placed along the research cycle. To use as a memory prompt for each research project. Based on Ihle, M. (2025). Open research cycle. LMU Open Science Center. https://doi.org/10.5281/zenodo.15630230](https://zenodo.org/records/15630230/files/OpenResearchCycle.png)

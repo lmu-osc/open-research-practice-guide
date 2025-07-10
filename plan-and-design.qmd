@@ -1,0 +1,52 @@
+---
+title: "Plan and Design"
+---
+
+## Explore/Reuse existing resources
+
+::: {.callout-note}
+## LEARN
+
+- **Reference management:** [Introduction to Zotero](https://lmu-osc.github.io/introduction-to-zotero/) (1h)
+:::
+
+### Existing articles
+
+To review the existing literature and come up with a well-founded research question, you can search for articles and preprints (reviews, meta-analysis, original articles, study cases, etc.) from the medical field on PubMed or EuropePMC. Search registries like openAlex and Google Scholar will also include book chapters or dissertations. Note that your primary sources should be peer-reviewed articles. It is recommended to keep track of your bibliography with a reference manager, which integrates with your reproducible workflow for writing manuscript. We recommend Zotero (see tutorial).
+
+### Existing preregistered studies
+
+### Existing datasets or code
+
+## Write/Check bounding frameworks such as grant proposal, ethics proposal, and Research Data Management (RDM) plan
+
+### LMU Guidelines for Safeguarding Good Scientific Practice
+
+### Write grant / check funding requirements
+
+### Write / check Research Data Management (RDM) proposal and ethic proposal
+
+## Design study
+
+### Preregistration
+
+### Data simulation in R to plan your study
+
+### Data simulation for power analyses for complex statistical models
+
+::: {.callout-note}
+## 📝 Checklist
+
+- [ ] Have you identified and reviewed relevant literature?
+- [ ] Have you checked for existing preregistered studies?
+- [ ] Have you searched for existing datasets or code?
+- [ ] Have you drafted your grant, ethics, and RDM proposals?
+- [ ] Have you discussed your plan with your supervisor/PI?
+- [ ] Have you considered preregistration and data simulation needs?
+:::
+
+::: {.callout-tip}
+## ✅ Check Point 1
+
+Present your plan to your primary supervisor, to your PI, and then to the lab!
+:::

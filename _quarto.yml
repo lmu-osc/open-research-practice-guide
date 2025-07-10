@@ -8,7 +8,7 @@ project:
 
 # Begin Website
 website:
-  title: "TUTORIAL TITLE HERE"
+  title: "Open Science Guide"
   page-footer: 
     center: "Copyright, 2024 Open Science Center at LMU Munich"
     border: false
@@ -43,42 +43,18 @@ website:
   sidebar:
     style: "docked"
     contents:
-      - text: "Overview"
-        href: index.qmd
-      - section: "How to Use and Adapt this Guide"
-        contents:
-          - href: 01-use-and-adapt/use.qmd
-            text: "Using this Guide"
-          - href: 01-use-and-adapt/adapt.qmd
-            text: "Adapting this Guide"
-      - section: "Introduction and Guiding Principles"
-        contents:
-          - href: 02-guiding-principles/os-principles.qmd
-            text: "Open Science Principles"
-          - href: 02-guiding-principles/lmu-guidelines.qmd
-            text: "LMU Guiding Principles"
-      - section: "Research Data Management (RDM) Lifecycle"
-        contents:
-          - href: 03-rdm-cycle/intro.qmd
-            text: "Introduction to RDM Lifecycle"
-          - text: "Plan & Design"
-            href: 03-rdm-cycle/plan-design.qmd
-          - text: "Collect & Manage"
-            href: 03-rdm-cycle/collect-manage.qmd
-          - text: "Analyse & Collaborate"
-            href: 03-rdm-cycle/analyse-collaborate.qmd
-          - text: "Preserve & Share"
-            href: 03-rdm-cycle/preserve-share.qmd
-      - section: "Resources"
-        contents:
-          - href: 04-resources/index.qmd
-            text: "Tools and Best Practices"
-      - section: "Appendix"
-        contents:
-          - href: 05-appendix/glossary.qmd
-            text: "Glossary"
-          - href: 05-appendix/policies.qmd
-            text: "Policies and Guidelines"
+      - href: overview.qmd
+        text: "Overview"
+      - href: plan-and-design.qmd
+        text: "Plan and Design"
+      - href: collect-and-manage.qmd
+        text: "Collect and Manage"
+      - href: analyze-and-collaborate.qmd
+        text: "Analyze and Collaborate"
+      - href: preserve-and-share.qmd
+        text: "Preserve and Share"
+      - href: lab-handbook-gallery.qmd
+        text: "Lab Handbook Gallery"
 # End Website
 
 
